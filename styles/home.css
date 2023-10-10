@@ -1,0 +1,23 @@
+form {
+    margin: 2em;
+    padding: 2em;
+    background-color: rgb(56, 206, 154);
+    border-radius: 12px;
+    font-family: "Roboto", sans-serif;
+  }
+ 
+  textarea {
+    height: 6rem;
+    width: 100%;
+    margin-bottom: 1.5rem;
+    resize: none;
+    font-size: 16px;
+  }
+ 
+  .summary-container {
+    margin: 2em;
+    padding: 2em;
+    background-color: rgb(56, 206, 154);
+    border-radius: 12px;
+  }
+ 
